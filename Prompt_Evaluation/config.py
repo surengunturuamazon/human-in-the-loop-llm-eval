@@ -1,0 +1,1 @@
+RAGAS_RESULTS = "ragas_output.csv"

@@ -1,0 +1,5 @@
+question,output,labels,comment
+How to deposit a cheque issued to an associate in my business into my business account?,placeholder 1,['Good'],
+How to deposit a cheque issued to an associate in my business into my business account?,placeholder 2,['Toxic Content'],
+How to deposit a cheque issued to an associate in my business into my business account?,placeholder 1,['Hallucination'],
+How to deposit a cheque issued to an associate in my business into my business account?,placeholder 2,['Low Fluency'],

@@ -1,0 +1,6 @@
+{"model_name": {"0": "anthropic.claude-v2", "1": "anthropic.claude-v2", "2": "anthropic.claude-v2", "3": "anthropic.claude-v2", "4": "anthropic.claude-v2", 
+                "5": "anthropic.claude-instant-v1", "6": "anthropic.claude-instant-v1", "7": "anthropic.claude-instant-v1", "8": "anthropic.claude-instant-v1", "9": "anthropic.claude-instant-v1", 
+                "10": "anthropic.claude-v2:1", "11": "anthropic.claude-v2:1", "12": "anthropic.claude-v2:1", "13": "anthropic.claude-v2:1", "14": "anthropic.claude-v2:1"}, 
+"temperature": {"0": "0.1", "1": "0.3", "2": "0.5", "3": "0.7", "4": "0.9", 
+"5": "0.1", "6": "0.3", "7": "0.5", "8": "0.7", "9": "0.9", 
+"10": "0.1", "11": "0.3", "12": "0.5", "13": "0.7", "14": "0.9"}}

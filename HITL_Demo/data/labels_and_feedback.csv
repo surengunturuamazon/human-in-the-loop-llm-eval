@@ -1,0 +1,5 @@
+question,output,labels,comment
+How to deposit a cheque issued to an associate in my business into my business account?,placeholder 1,['Good'],
+How to deposit a cheque issued to an associate in my business into my business account?,placeholder 2,['Low Factual Consistency'],It doesn't give valid output. 
+1 EIN doing business under multiple business names,placeholder 1,['Hallucination'],
+1 EIN doing business under multiple business names,placeholder 2,['Good'],
